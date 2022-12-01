@@ -1,0 +1,16 @@
+{
+  "name": "proyectonpm",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto de JavaScrript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "first",
+    "project"
+  ],
+  "author": "Alex Pino",
+  "license": "ISC"
+}
